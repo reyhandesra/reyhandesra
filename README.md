@@ -5,9 +5,9 @@
  </body>
  <ol>
 
-<li> Step 1 </li>
+<li> https://yiea.com/ </li>
 
-<li> Step 2 </li>
+<li> https://youtube.com/@yokohamainternationaleduca4403?si=j0Y_1GwenJqqpcwk</li>
 
 </ol>
 echo "# reyhandesra" >> README.md
